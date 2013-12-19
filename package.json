@@ -1,0 +1,17 @@
+{
+  "name": "tfs-cnpm",
+  "version": "0.0.1",
+  "description": "a tfs api wraper for cnpm",
+  "keywords": [],
+  "author": "dead_horse <dead_horse@qq.com>",
+  "repository": { "type": "git", "url": "git://gitlab.alibaba-inc.com/tfs-cnpm.git" },
+  "dependencies": {
+    "tfs": "0.1.6",
+    "utility": "0.1.9"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
