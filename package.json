@@ -2,9 +2,10 @@
   "name": "tfs-cnpm",
   "version": "0.0.1",
   "description": "a tfs api wraper for cnpm",
-  "keywords": [],
+  "keywords": ["tfs", "cnpm"],
   "author": "dead_horse <dead_horse@qq.com>",
-  "repository": { "type": "git", "url": "git://gitlab.alibaba-inc.com/tfs-cnpm.git" },
+  "repository": { "type": "git", "url": "git://github.com/dead-horse/tfs-cnpm.git" },
+  "license": "MIT",
   "dependencies": {
     "tfs": "0.1.6",
     "utility": "0.1.9"

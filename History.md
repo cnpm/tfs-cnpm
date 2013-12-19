@@ -1,5 +1,6 @@
 
-0.0.1  
-==================  
+0.0.1 / 2013-12-19 
+==================
 
-  * Initial release  
+  * wrap tfs form cnpm
+  * Initial commit
