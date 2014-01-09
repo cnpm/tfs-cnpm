@@ -1,6 +1,6 @@
 {
   "name": "tfs-cnpm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a tfs api wraper for cnpm",
   "keywords": ["tfs", "cnpm"],
   "author": "dead_horse <dead_horse@qq.com>",
