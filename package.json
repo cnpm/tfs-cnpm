@@ -4,7 +4,11 @@
   "description": "a tfs api wraper for cnpm",
   "keywords": ["tfs", "cnpm"],
   "author": "dead_horse <dead_horse@qq.com>",
-  "repository": { "type": "git", "url": "git://github.com/dead-horse/tfs-cnpm.git" },
+  "homepage": "https://github.com/cnpm/tfs-cnpm",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cnpm/tfs-cnpm.git"
+  },
   "license": "MIT",
   "dependencies": {
     "tfs": "0.2.2",
