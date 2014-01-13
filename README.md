@@ -1,4 +1,3 @@
-
 # tfs-cnpm
 
   a tfs api wraper for cnpm
@@ -21,6 +20,7 @@ tfs options see [tfs](https://github.com/fengmk2/tfs)
 * **upload(filePath, options, callback)**: upload file by path, callback return {key: 'xxxxx'}
 * **uploadBuffer(buf, options, callback)**: upload ifle by buffer, callback return {key: 'xxxxx'}
 * **download(key, savePath, callback)**: get file by `key` and save into `savePath`
+* **downloadStream(key, writeStream, callback)**: get file by `key` and save into `writeStream`
 * **remove(key, callback)**: remove file by `key`
 
 ## License
