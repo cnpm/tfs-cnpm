@@ -1,4 +1,13 @@
 
+0.0.5 / 2014-01-13
+==================
+
+  * Merge pull request #2 from cnpm/download-stream
+  * download() also support timeout options
+  * add timeout options for downloadStream
+  * support downloadStream(key, writeStream, callback) fixed #1
+  * update readme
+
 0.0.4 / 2014-01-09
 ==================
 
